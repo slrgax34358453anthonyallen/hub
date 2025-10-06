@@ -41,3 +41,5 @@ services:
     envVars:
       - key: PHOENIX_DATADIR
         value: /data/phoenixd
+
+# Update: 2025-10-07
