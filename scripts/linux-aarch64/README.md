@@ -71,3 +71,5 @@ We also provide a simple docker-compose file:
     $ docker-compose up # or docker-compose up --pull=always <- to make sure you get the latest images
 
 Make sure to mount and backup the data working directory.
+
+<!-- Auto-update: 2025-10-12T11:56:03.810869 -->
