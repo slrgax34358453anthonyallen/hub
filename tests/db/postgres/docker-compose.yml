@@ -24,3 +24,5 @@ services:
     ports:
       # Entirely up to you what port you want to use while testing.
       - "5434:5432"
+
+# Update: 2025-10-12
